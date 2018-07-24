@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding/classifier_normal.py=utf-8
+encoding/csv_creator.py=utf-8
+encoding/lda_test.py=utf-8
+encoding/poincare.py=utf-8
+encoding/test_textm.py=utf-8
+encoding/weka_bayesiannet_datacreate.py=utf-8
+encoding/weka_bayesiannet_fielddata.py=utf-8
+encoding/weka_replacer.py=utf-8
